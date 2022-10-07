@@ -17,7 +17,7 @@ This is the third challenge in this bootcamp, and was used to demonstrate the un
 was a little tricky to figure out, it was exciting to see my code come across in the browser correctly after I was able to find and correct my errors.
 
 # Where is this project located?
-https://github.com/user-friendly1130/Challenge-03-Password-Generator.git
+https://user-friendly1130.github.io/Challenge-03-Password-Generator/
 
 # What does the Password generator Look like?
 
